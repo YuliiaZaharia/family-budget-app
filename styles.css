@@ -192,18 +192,18 @@ ul li:hover {
 }
 
 .amount.income {
-  color: yellowgreen;
+  color: #79D70F;
 }
 
 .amount.expense {
-  color: indianred;
+  color: #DF2E38;
 }
 
 .action {
   position: absolute;
   top: 0;
   right: 0;
-  background-color: #f00;
+  background-color: #DF2E38;
   color: #fff;
   height: 100%;
   width: 50px;
